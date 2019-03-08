@@ -1,0 +1,5 @@
+2018-08-31 loggingFile.py[line:4] debug Message
+2018-08-31 loggingFile.py[line:5] info message
+2018-08-31 loggingFile.py[line:6] warning message
+2018-08-31 loggingFile.py[line:7] error message
+2018-08-31 loggingFile.py[line:8] critical message
